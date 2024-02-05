@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "latest": "^0.2.0",
+    "node": "^21.6.1",
+    "npm": "^10.4.0"
+  },
+  "name": "spatial_music",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "Get Up, Get Down, Get Funky, Get Loose"
+}
